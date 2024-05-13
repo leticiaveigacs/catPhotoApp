@@ -1,7 +1,3 @@
-# catPhotoApp
-CatPhotoApp
-
-
 # CatPhotoApp 🐱
 
 Este repositório contém o código para o CatPhotoApp, meu primeiro site em HTML. É uma aplicação web simples que mostra fotos de gatos, listas de gatos e um formulário de gato, demonstrando meus conhecimentos iniciais em desenvolvimento web.
