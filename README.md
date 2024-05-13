@@ -18,7 +18,7 @@ Este repositório contém o código para o CatPhotoApp, meu primeiro site em HTM
 
 ## 🖼️ Imagem Demonstrativa
 
-![CatPhotoApp](https://example.com/catphotoapp.png)
+[CatPhotoApp](https://github.com/leticiaveigacs/catPhotoApp/issues/1#issue-2294056110)
 
 ## Demonstraçao
 
