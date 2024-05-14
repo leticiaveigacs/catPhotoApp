@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<link rel="stylesheet" href="styles.css">
+
+ <head>
+    
+    <title>CatPhotoApp</title>
+ </head>
+ <body>
+    <main>
+      <h1>CatPhotoApp</h1>
+      <section>
+        <h2 id="titulo2">Cat Photos</h2>
+        <!-- TODO: Add link to cat photos -->
+        <p id=" texto">See more <a target="_blank" href="https://github.com/leticiaveigacs/catPhotoApp.git">Cat Photos</a> in our gallery.</p>
+        <a href="https://github.com/leticiaveigacs/catPhotoApp.git"><img  id="figura0" src="fig/relaxing-cat.jpg" alt="A cute orange cat lying on its back."></a>
+      </section>
+
+      <section>
+        <h2  id="titulo2_2">Cat Lists</h2>
+        <h3 id="ama">Things cats love:</h3>
+        <ul class="lista2" id="lista2">
+          <li>cat nip</li>
+          <li>laser pointers</li>
+          <li>lasagna</li>
+        </ul>
+        <figure id="figura2">
+          <img src="fig/lasagna.jpg" alt="A slice of lasagna on a plate.">
+          <figcaption id="fig1">Cats <em>love</em> lasagna.</figcaption>  
+        </figure>
+        <h3 id="odeia">Top 3 things cats hate:</h3>
+        <ol id="lista1">
+          <li>flea treatment</li>
+          <li>thunder</li>
+          <li>other cats</li>
+        </ol>
+        <figure id="figura1">
+          <img src="fig/cats.jpg" alt="Five cats looking around a field.">
+          <figcaption  id="fig2">Cats <strong>hate</strong> other cats.</figcaption>  
+        </figure>
+      </section>
+      <section>
+        <h2>Cat Form</h2>
+        <form class="formulario" action="https://freecatphotoapp.com/submit-cat-photo">
+          <fieldset>
+            <legend>Is your cat an indoor or outdoor cat?</legend>
+            <label><input id="indoor" type="radio" name="indoor-outdoor" value="indoor" checked> Indoor</label>
+            <label><input id="outdoor" type="radio" name="indoor-outdoor" value="outdoor"> Outdoor</label>
+          </fieldset>
+          <fieldset>
+            <legend>What's your cat's personality?</legend>
+            <input id="loving" type="checkbox" name="personality" value="loving" checked> <label for="loving">Loving</label>
+            <input id="lazy" type="checkbox" name="personality" value="lazy"> <label for="lazy">Lazy</label>
+            <input id="energetic" type="checkbox" name="personality" value="energetic"> <label for="energetic">Energetic</label>
+          </fieldset>
+          <input type="text" name="catphotourl" placeholder="cat photo URL" required>
+          <button type="submit">Submit</button>
+        </form>
+      </section>
+    </main>
+    <footer>
+      <p id ="rodape">
+        <!-- Leticia Veiga - 2024 --> <a href="https://github.com/leticiaveigacs/catPhotoApp.git"> Leticia Veiga - 2024</a>
+      </p>
+    </footer>
+  </body>
+</html>

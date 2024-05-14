@@ -1,0 +1,224 @@
+ h1 {
+
+    margin: 0;
+    background: rgb(255, 255, 255);
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%); 
+
+}
+
+#titulo2 {
+
+    margin: 0;
+    background: rgb(255, 255, 255);
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%); 
+
+}
+
+p {
+
+    margin: 0;
+    background: rgb(255, 255, 255);
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%); 
+
+}
+
+#figura0 {
+    margin: 0;
+    background: rgb(255, 255, 255);
+    position: absolute;
+    top: 38%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%); 
+
+} 
+
+#titulo2_2 {
+
+    margin: 0;
+    background: rgb(255, 255, 255);
+    position: absolute;
+    top: 62%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%); 
+
+}
+
+#ama{
+
+    margin: 0;
+    background: rgb(255, 255, 255);
+    position: absolute;
+    top: 66%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%); 
+
+}
+
+#lista2 {
+
+    margin: 0;
+    background: rgb(255, 255, 255);
+    position: absolute;
+    top: 72%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%); 
+
+}
+
+  #figura2 {
+    margin: 0;
+    background: rgb(255, 255, 255);
+    position: absolute;
+    top: 96%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%); 
+
+}  
+
+#fig1 {
+    margin: 0;
+    background: rgb(255, 255, 255);
+    position: absolute;
+    top:103%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%); 
+
+} 
+
+
+#odeia{
+
+    margin: 0;
+    background: rgb(255, 255, 255);
+    position: absolute;
+    top: 118%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%); 
+
+}
+
+#lista1 {
+
+    margin: 0;
+    background: rgb(255, 255, 255);
+    position: absolute;
+    top: 124%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%); 
+
+}
+
+  #figura1 {
+    margin: 0;
+    background: rgb(255, 255, 255);
+    position: absolute;
+    top:146%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%); 
+
+} 
+
+
+#fig2 {
+    margin: 0;
+    background: rgb(255, 255, 255);
+    position: absolute;
+    top: 103%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%); 
+
+} 
+
+
+h2 {
+    margin: 0;
+    background: rgb(255, 255, 255);
+    position: absolute;
+    top:166%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%); 
+
+}  
+
+
+/* 
+#lista2 {
+
+    margin: 0;
+    background: rgb(255, 0, 179);
+    position: absolute;
+    top: 61%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) 
+
+} */
+
+
+/* h1, h2, h3, p, li, ul ,ol {
+
+  margin: 0;
+    background: yellow;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) 
+
+}
+
+/* #figura1, #figura2 {
+    margin: 0;
+    background: yellow;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) 
+
+} */
+ 
+form{
+    margin: 0;
+    background: rgb(213, 209, 209);
+    position: absolute;
+    top: 180%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%); 
+
+}
+
+#rodape{
+    margin: 0;
+    background: rgb(255, 255, 255);
+    position: absolute;
+    top: 200%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+
+}  
