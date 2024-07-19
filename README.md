@@ -1,29 +1,28 @@
 # CatPhotoApp 🐱
 
-Este repositório contém o código para o CatPhotoApp, meu primeiro site em HTML. É uma aplicação web simples que mostra fotos de gatos, listas de gatos e um formulário de gato, demonstrando meus conhecimentos iniciais em desenvolvimento web.
+This repository contains the code for CatPhotoApp, my first HTML website. It is a simple web application that displays cat photos, lists of cats, and a cat form, showcasing my initial knowledge in web development.
 
-## 🛠️ Estrutura Técnica
+## 🛠️ Technical Structure
 
-- `<!DOCTYPE html>`: Declaração do tipo de documento e versão.
-- `<html lang="en">`: O elemento raiz do documento HTML, indicando que o idioma usado é o inglês.
-- `<head>`: Contém informações meta sobre o documento HTML, como título, conjunto de caracteres e links para recursos externos como arquivos CSS.
-- `<body>`: Contém o conteúdo visível da página da web.
-  - `<main>`: Representa o conteúdo principal da página da web.
-    - Seções: Divide o conteúdo em seções.
-    - Títulos (`<h1>`, `<h2>`): Fornece estrutura ao conteúdo.
-    - Listas (`<ul>`, `<ol>`): Exibe coisas que os gatos amam e odeiam.
-    - Imagens (`<img>`): Mostra fotos de gatos e imagens relacionadas.
-    - Formulário (`<form>`): Permite que os usuários enviem fotos de gatos e selecionem opções para gato de interior/exterior e personalidade do gato.
-  - `<footer>`: Contém informações sobre o autor e um link para seu repositório no GitHub.
+- `<!DOCTYPE html>`: Document type declaration and version.
+- `<html lang="en">`: The root element of the HTML document, indicating that the language used is English.
+- `<head>`: Contains meta-information about the HTML document, such as the title, character set, and links to external resources like CSS files.
+- `<body>`: Contains the visible content of the web page.
+  - `<main>`: Represents the main content of the web page.
+    - Sections: Divides content into sections.
+    - Headings (`<h1>`, `<h2>`): Provides structure to the content.
+    - Lists (`<ul>`, `<ol>`): Displays things cats love and hate.
+    - Images (`<img>`): Shows photos of cats and related images.
+    - Form (`<form>`): Allows users to submit cat photos and select options for indoor/outdoor cats and cat personality.
+  - `<footer>`: Contains information about the author and a link to their GitHub repository.
 
-## 🖼️ Imagem Demonstrativa
+## 🖼️ Demonstrative Image
 
 [CatPhotoApp](https://github.com/leticiaveigacs/catPhotoApp/issues/1#issue-2294056110)
 
-## Demonstraçao
+## Demonstration
 
-Você pode baixar o ficheiro clicando [aqui](https://github.com/leticiaveigacs/catPhotoApp).
-
+You can download the file by clicking [here](https://github.com/leticiaveigacs/catPhotoApp).
 
 
 
