@@ -22,7 +22,7 @@ This repository contains the code for CatPhotoApp, my first HTML website. It is 
 
 ## Demonstration
 
-You can download the file by clicking [here](https://github.com/leticiaveigacs/catPhotoApp).
+You can download the file by clicking [here](https://leticiaveigacs.github.io/catPhotoApp/).
 
 
 
